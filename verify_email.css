@@ -22,34 +22,27 @@ h1, h2, h3, h4, h5 {
 }
 
 .logo {
-    margin-bottom: 43px;
+    margin-bottom: 18.5px;
 }
 
-.llave {
-    margin-bottom: 34px;
+.conito {
+    margin-bottom: 37.8px;
 }
 
 h1 {
     font-size: 50px;
-    margin-bottom: 25px;
+    margin-bottom: 4px;
 }
 
 p {
     font-weight: 300;
     font-size: 30px;
-    margin-bottom: 31px;
-}
-
-th {
-    color: #007ac2;
-    font-weight: bold;
-    font-size: 16px;
-    text-transform: uppercase;
-    text-align: center;
+    margin-bottom: 47px;
+    margin-top: 0%;
 }
 
 .btn-principal {
-    margin-bottom: 28px;
+    margin-bottom: 81px;
     background-color: #007ac2;
     font-size: 30px;
     color: white;
@@ -57,14 +50,6 @@ th {
     height: 85px;
     padding: 22px 0;
     border: none;
-}
-
-h4 {
-    font-size: 17px;
-    font-weight: 300;
-    text-align: justify;
-    color: #868686;
-    margin-bottom: 69px;
 }
 
 h2 {
